@@ -1,0 +1,14 @@
+pwd : print working directory
+mkdir: make directory
+cd : change directory
+ls : list directory
+cd .. : parent directory
+cd ../.. : 2 parent directory
+clear: clear console
+touch : create an empty file
+mv : move or rename file or directory
+cp : copy file or directory
+rm : remove file 
+rm -rf : remove directory 
+rmdir : remove directory
+cat : print a file
